@@ -48,3 +48,6 @@ Welcome to my GitHub profile! I'm passionate about Software development,
 
 ## GitHub Stats
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourBroCode&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+
+## Leetcode Stats
+[![Leetcode Stats](https://leetcard.jacoblin.cool/yourcodeBro?ext=heatmap)](https://leetcode.com/yourcodeBro)
