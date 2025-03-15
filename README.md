@@ -44,10 +44,10 @@ Welcome to my GitHub profile! I'm passionate about Software development,
 * [Email](mailto:kr.shyamiit@gmail.com)
 
 ## Top languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourBroCode&langs_count=8&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourBroCode&langs_count=8&theme=radical)
 
 ## GitHub Stats
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourBroCode&show_icons=true&theme=midnight-purple)](https://github.com/anuraghazra/github-readme-stats)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourBroCode&show_icons=true&theme=midnight-purple)
 
 ## Leetcode Stats
-[![Leetcode Stats](https://leetcard.jacoblin.cool/yourcodeBro?ext=heatmap)](https://leetcode.com/yourcodeBro)
+![Leetcode Stats](https://leetcard.jacoblin.cool/yourcodeBro?ext=heatmap)
