@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# Hi there 👋 I'm Shyam Kumar
+# Hi there, I'm Shyam Kumar
 
 Welcome to my GitHub profile! I'm passionate about Software development,
 
@@ -33,8 +33,8 @@ Welcome to my GitHub profile! I'm passionate about Software development,
 
 ## Open Source Contributions
 
-* [OWASP/Nest](https://github.com/OWASP/Nest/graphs/contributors)
-* [OpenHealthCare](https://github.com/ohcnetwork/care_fe/)
+* [OWASP/Nest](https://github.com/OWASP/Nest/pulls?q=is%3Apr+is%3Aclosed+author%3AYourBroCode)
+* [OpenHealthCare](https://github.com/ohcnetwork/care_fe/pulls?q=is%3Apr+is%3Aclosed+author%3AYourBroCode)
 
 ## Connect with Me
 
