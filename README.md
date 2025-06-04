@@ -1,53 +1,80 @@
+<!-- README.md -->
 
-<!--
-**YourBroCode/YourBroCode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">Hey there, I'm Shyam Kumar</h1>
 
-Here are some ideas to get you started:
+<p align="center">
+   Passionate Developer | 🏫 final Year Student at <a href="https://www.iitism.ac.in/">IIT Dhanbad</a> | 🌐 Open Source Contributor
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-# Hi there, I'm Shyam Kumar
+---
 
-Welcome to my GitHub profile! I'm passionate about Software development,
+### 🧑‍💻 About Me
 
-## About Me
+- 🎓 Currently in my 3rd year at **IIT (ISM) Dhanbad**
+- 🌍 Building practical, impactful solutions for real-world problems
+- 💡 Always curious to learn and explore new technologies
+- 🔭 Interested in full-stack development and open-source communities
 
-* I'm currently currently studying in 3rd year [IIT Dhanbad](https://www.iitism.ac.in/).
-* I am particularly interested in developing practical projects that can have a positive impact on society.
-* I'm always eager to learn and explore new technologies.
+---
 
-## Skills
+### 🛠️ Tech Stack
 
-* **Languages:** HTML, CSS, Javascript, Typescript, C, C++, Python
-* **Frameworks:** React, Node.js, Django
-* **Tools:** Git, Docker, postman,vercel, VS Code
-* **Other:** Database,Figma,Schema, APIs
+**Languages:**  
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript)
+![C](https://img.shields.io/badge/-C-00599C?style=flat&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python)
 
+**Frameworks & Libraries:**  
+![React](https://img.shields.io/badge/-React-20232A?style=flat&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django)
 
-## Open Source Contributions
+**Tools & Platforms:**  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman)
+![Vercel](https://img.shields.io/badge/-Vercel-000?style=flat&logo=vercel)
+![VSCode](https://img.shields.io/badge/-VSCode-007ACC?style=flat&logo=visual-studio-code)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma)
 
-* [OWASP/Nest](https://github.com/OWASP/Nest/pulls?q=is%3Apr+is%3Aclosed+author%3AYourBroCode)
-* [OpenHealthCare](https://github.com/ohcnetwork/care_fe/pulls?q=is%3Apr+is%3Aclosed+author%3AYourBroCode)
+---
 
-## Connect with Me
+### Open Source Contributions
 
-* [LinkedIn](https://www.linkedin.com/in/shyam-kumar-b52679251/)
-<!-- * [Twitter](https://twitter.com/yourtwitterhandle)
-* [Portfolio Website](https://yourwebsite.com) -->
-* [Email](mailto:kr.shyamiit@gmail.com)
+- [OWASP Nest](https://nest.owasp.org/members/YourBroCode)
+- [OpenHealthCare Network](https://github.com/ohcnetwork/care_fe/pulls?q=is%3Apr+is%3Aclosed+author%3AYourBroCode)
 
-## Top languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YourBroCode&langs_count=8&theme=radical)
+---
 
-## GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YourBroCode&show_icons=true&theme=midnight-purple)
+### GitHub Analytics
 
-## Leetcode Stats
-![Leetcode Stats](https://leetcard.jacoblin.cool/yourcodeBro?ext=heatmap)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourBroCode&show_icons=true&theme=midnight-purple" alt="Shyam's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YourBroCode&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+### LeetCode Stats
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/yourcodeBro?ext=heatmap" alt="LeetCode Stats" />
+</p>
+
+---
+
+### Connect With Me
+
+<p align="center">
+  <a href="mailto:kr.shyamiit@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/shyam-kumar-b52679251/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin" /></a>
+</p>
+
+---
+
+> _“Code is like humor. When you have to explain it, it’s bad.” – Cory House_
