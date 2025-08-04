@@ -1,6 +1,6 @@
 <!-- README.md -->
 
-<h1 align="center">Hey there, I'm Shyam Kumar</h1>
+<h1 align="center">Hey there !~!</h1>
 
 <p align="center">
    Passionate Developer | 🏫 final Year Student at <a href="https://www.iitism.ac.in/">IIT Dhanbad</a> | 🌐 Open Source Contributor
