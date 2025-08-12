@@ -10,7 +10,7 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 Currently in my 3rd year at **IIT (ISM) Dhanbad**
+- 🎓 Currently in my final year at **IIT (ISM) Dhanbad**
 - 🌍 Building practical, impactful solutions for real-world problems
 - 💡 Always curious to learn and explore new technologies
 - 🔭 Interested in full-stack development and open-source communities
