@@ -47,9 +47,8 @@
 
 ### Open Source Contributions
 
-- [OWASP Nest](https://nest.owasp.org/members/YourBroCode)
-- [OpenHealthCare Network](https://github.com/ohcnetwork/care_fe/pulls?q=is%3Apr+is%3Aclosed+author%3AYourBroCode)
-
+- [OWASP Nest](https://nest.owasp.org/members/YourBroCode)      [Merged PRs](https://github.com/OWASP/Nest/pulls?q=is%3Apr+is%3Aclosed+author%3AYourBroCode)
+- [OpenHealthCare Network](https://contributors.ohc.network/contributors/YourBroCode)    [Merged PRs](https://github.com/ohcnetwork/care_fe/pulls?q=is%3Apr+is%3Aclosed+author%3AYourBroCode)
 ---
 
 ### GitHub Analytics
